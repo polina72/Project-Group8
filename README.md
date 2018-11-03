@@ -9,7 +9,7 @@ SUGO
 
 Delivery app - The purpose of the App is to provide a platform where students of the same campus can connect with each, request or offer variety of services and thus, increase their accessibility and productivity, and save time. The platform will benefit students, local restaurants, and local stores.
 
-Note: The project is down on Appy Pie. Because of this, the work will be done on the SUGO Appy Pie account and a link to the updated App will be provided along with its coresponding date. The team uses a single Appy Pie account and make changes directly on the website. SUGO App and Appy Pie email : sugoSJSU@gmail.com
+***The project is down on Appy Pie. Because of this, the work will be done on the SUGO Appy Pie account and a link to the updated App will be provided along with its coresponding date. The team uses a single Appy Pie account and make changes directly on the website. SUGO App and Appy Pie email : sugoSJSU@gmail.com. We have emailed Uttara reguarding as to why there is no actual code but rather a downloadble .apk file which shows progress on the app.
 
 How to install and run SUGO
 
